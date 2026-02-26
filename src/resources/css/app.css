@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Tu CSS personalizado empieza aquí */
+body {
+    background-color: #f8fafc;
+}
+.mi-boton-especial {
+    border-radius: 12px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
